@@ -1,0 +1,5 @@
+{
+  "name": "Lambda Forge",
+  "description": "AI-powered AWS Lambda code generator. Securely login, generate production-ready serverless functions from natural language, and manage your code history.",
+  "requestFramePermissions": []
+}
